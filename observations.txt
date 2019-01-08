@@ -1,0 +1,24 @@
+Observation 1
+After plotting each city's latitude vs. its max temperature for Jan. 8, 2019, there appears to be an obvious trend 
+showing the temperature dropping as the latitude grows larger (on the positive side). Though obvious, the data shows 
+that the temperature for cities that are located north of the Tropic of Cancer (~23 degrees North latitude) is lower than
+the temperature in cities located between the Equator and the Tropic of Cancer (0 to 23 degrees). The data also shows somewhat 
+that the temperature does not drop drastically as the latitude grows larger (on the negative side), as it is currently sumer in 
+the Southern Hemisphere. Even for cities located at 40 degrees South latitude, the temperature is still sitting between 40 and 
+85 degrees F. 
+
+
+Observation 2
+Based on the plot of cities' latitude vs. their wind speeds on Jan. 8, 2019, it appears there is not a strong
+correlation bewteen latitude and wind speeds. In general, wind speeds for most cities were between 0 and 20 MPH,
+though some cities in the more northern and southern extremes did have drastically higher wind speeds. The data
+says to me that these outlier wind speeds are caused by local conditions like terrain rather than latitude.
+
+
+Observation 3
+Based on the plot of cities' latitude vs. their humidity levels, it appears there is not a strong correlation
+between latitude and humidity. Almost all cities within the Tropics (-23 degrees to 23 degrees) registered 
+humidity levels of at least 20 percent, though some cities located outside the tropics registered lower 
+humidity levels. Again, the data shows that these outlier humidity levels are likely caused by local conditions,
+like proximity to water and temperature, rather than latitude. (The same appears to be true about the correlation 
+between latitude and wind speed)
